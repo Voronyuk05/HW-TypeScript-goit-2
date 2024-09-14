@@ -1,1 +1,0 @@
-# HW-TypeScript-goit-2
